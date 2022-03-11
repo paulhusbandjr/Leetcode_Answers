@@ -41,4 +41,4 @@ def isUgly(n):
             return False
 
 
-print(isUgly(6))
+print(isUgly(14))
